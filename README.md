@@ -1,4 +1,4 @@
-Simple Blog - Version 0.1. by MetalOS666
+Simple Blog - Version 0.1. by Julien ARNOULD
 
 Simple-Blog et un blog ultra simple en php qui permet de poster des articles avec une image. Une console de gestion administrateur protégé par nom d'utilisateur et un mot de passe permet d'ajouter ou de supprimer un article.
 
